@@ -30,12 +30,6 @@ The application demonstrates practical frontend development concepts while focus
 ---
 ## 📸 Screenshots
 
-### Home Screen
-
-![Home](./screenshots/home.png)
-
----
-
 ### Cloudy Weather
 
 ![Cloud](./screenshots/cloud.png)
@@ -48,9 +42,9 @@ The application demonstrates practical frontend development concepts while focus
 
 ---
 
-### Snow Weather
+### Drizzle Weather
 
-![Snow](./screenshots/snow.png)
+![Snow](./screenshots/drizzle.png)
 ---
 
 ## 🛠️ Technologies Used
