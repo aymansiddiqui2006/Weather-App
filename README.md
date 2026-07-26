@@ -32,19 +32,19 @@ The application demonstrates practical frontend development concepts while focus
 
 ### Cloudy Weather
 
-![Cloud](./screenshots/cloud.png)
+![Cloud](./weather_app/screenshots/cloud.png)
 
 ---
 
 ### Rainy Weather
 
-![Rain](./screenshots/rain.png)
+![Rain](./weather_app/screenshots/rain.png)
 
 ---
 
 ### Drizzle Weather
 
-![Snow](./screenshots/drizzle.png)
+![Snow](./weather_app/screenshots/drizzle.png)
 ---
 
 ## 🛠️ Technologies Used
